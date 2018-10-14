@@ -1,20 +1,28 @@
 # Hacktoberfest Census
 
-### Thanks to all who participated this year, Happy #Hacktoberfest2017!
-
-# Final Total:
-### Pull Requests: 1803
-### Accepted: 356 (lol :D)
-
-### Another thanks to those who are helping accept the massive backlog of PR's (Although it probably still won't be cleared until #Hacktoberfest2018)!
-
-A census of those participating in Hacktoberfest 2017 (and an easy PR!)
+A census of those participating in Hacktoberfest (and an easy PR!)
 
 This census has a live webpage [here](https://cutwell.github.io/Hacktoberfest-Census). It's automatically updated every time a PR is accepted!
 
 ---
 ![Hacktoberfest-Census](static/img/Hackcensus.png "Hacktoberfest-Census")
 ---
+
+### A Short Letter to Contributors
+Hi All, old or new Hacktoberfest contributors!
+
+This repository was initially created for the 2017 Hacktoberfest as a half joke, half serious census.
+Given that I've seen over a hundred new pull requests in the last 2 days alone, I guess you guys want to use it this year as well!
+
+~~Until I get around to implementing a bot, don't expect the census to be updated in any meaningful way. However a PR doesn't need to be accepted to count for Hacktoberfest so that's fine.~~
+
+I've now written a script to construct a census from the open Pull Requests (hence why you may see your PR being closed and opened once or twice over the next few days while it's configured).
+
+I would encourage everyone who participates in this project to not count it as one of your five Open Source contributions, due to it's simplistic nature, although obviously I can't stop you.
+
+Have a great Hacktoberfest ya'll and happy hacking!
+
+ - Cutwell, 2018
 
 ### Contributing
 Fork this project and add your username + profile link to the [Census](https://github.com/Cutwell/Hacktoberfest-Census#census) list below, then make a pull request to add your name to this repository like so:
@@ -24,14 +32,13 @@ Fork this project and add your username + profile link to the [Census](https://g
 ```
 
 ### Census
- - [HistoireDeBabar](https://github.com/HistoireDeBabar)
- - [Jac08H](https://github.com/Jac08H)
  - [Cutwell](https://github.com/Cutwell)
  - [Octamois](https://github.com/octamois)
  - [adammendoza](https://github.com/adammendoza)
  - [thatguywiththatname](https://github.com/thatguywiththatname)
  - [Dylan](https://github.com/dylanmaryk)
  - [shrikarvk](https://github.com/shrikarvk)
+ - [styfle](https://github.com/styfle)
  - [vicennial](https://github.com/vicennial)
  - [pmdamora](https://github.com/pmdamora)
  - [Vyautask](https://github.com/vytautask)
@@ -47,6 +54,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [TheTota](https://github.com/TheTota)
  - [AndikaNugraha](https://github.com/AndikaNugraha11)
  - [ashishkrishan1995](https://github.com/ashishkrishan1995)
+ - [luisvillalba](https://github.com/luisvillalba)
  - [Jeril](https://github.com/jerilseb)
  - [stuartmccoll](https://github.com/stuartmccoll)
  - [JamesJ](https://github.com/JamesJ)
@@ -283,11 +291,14 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Pintman](https://github.com/pintman)
  - [hellotunmbi](https://github.com/hellotunmbi)
  - [raynescc](https://github.com/raynescc)
+ - [HistoireDeBabar](https://github.com/HistoireDeBabar)
+ - [Jac08H](https://github.com/Jac08H)
  - [Covah](https://github.com/covah)
  - [Hisman](https://github.com/hisman)
  - [Phoebe](https://github.com/phoebewong)
  - [pdejan](https://github.com/pdejan)
  - [Nefari0uss](https://github.com/nefari0uss)
+ - [Debajyoti Halder](https://github.com/ron-debajyoti)
  - [DionGatea](https://github.com/Diongatea)
  - [TroeLar](https://github.com/TroeLar)
  - [populationtwo](https://github.com/populationtwo)
@@ -347,6 +358,15 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [arijitAD](https://github.com/arijitAD)
  - [billy-7](https://github.com/billy-7)
  - [Mayueeeee](https://github.com/mayueeeee)
+ - [fdel15](https://github.com/fdel15)
+ - [Curchel](https://github.com/Curchel)
+ - [sree](https://github.com/r-sreesaran)
+ - [accakks](https://github.com/accakks)
+ - [sublistic](https://github.com/sublistic)
+ - [icyc0re](https://github.com/icyc0re)
+ - [db001](https://github.com/db001)
+ - [uppe-r](https://github.com/uppe-r)
+ - [twist295](https://github.com/twist295)
  - [OatRice](https://github.com/oatrice)
  - [vitorlans](https://github.com/vitorlans)
  - [harsh4723](https://github.com/harsh4723)
@@ -398,10 +418,17 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [divyam3897](https://github.com/divyam3897)
  - [kohehir](https://github.com/kohehir)
  - [Srijancse](https://github.com/Srijancse)
+ - [lwagf](https://github.com/lwagf)
+ - [chelciebritt](https://github.com/chelciebritt)
  - [ClaudeRenney](https://github.com/clauderenney)
  - [Worranut](https://github.com/worranut)
  - [hernan940730](https://github.com/hernan940730)
  - [lwagf](https://github.com/lwagf)
+ - [SleightOfHandzy] (https://github.com/SleightOfHandzy)
+ - [lucianosds](https://github.com/lucianosds)
+ - [running-cool](https://github.com/running-cool)
+ - [IsaacAbrahamson](https://github.com/IsaacAbrahamson)
+ - [Bahnburner](https://github.com/Bahnburner)
  - [atelljohannsmothers](https://github.com/atelljohannsmothers)
  - [dushyantRathore](https://github.com/dushyantRathore)
  - [reinbauwens](https://github.com/reinbauwens)
@@ -410,6 +437,14 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [PvcPre](https://github.com/pvcpre)
  - [kUSHAL0601](https://github.com/kUSHAL0601)
  - [RuchikaModi](https://github.com/rm-1612)
+ - [fheee](https://github.com/fheee)
+ - [BrumGB](https://github.com/brumgb)
+ - [Palash Nigam](https://github.com/palash25)
+ - [Vyygir](https://github.com/Vyygir)
+ - [chickenjieb](https://github.com/chickenjieb)
+ - [Adrian B.G.](https://github.com/bgadrian)
+ - [verdond2](https://github.com/verdond2)
+ - [Shivams334](https://github.com/shivams334)
  - [licsth](https://github.com/licsth)
  - [The Batman](https://github.com/iamnapo)
  - [Dimsedane](https://github.com/dimsedane)
@@ -421,6 +456,29 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [samfrey99](https://github.com/samfrey99)
  - [mtking2](https://github.com/mtking2)
  - [alvaro511](https://github.com/alvaro511)
+ - [Miiitch](https://github.com/micheleriva)
+ - [Faisal Hassan](https://faisalhassanx.bitbucket.io)
+ - [runely](https://github.com/runely)
+ - [m-oliv](https://github.com/m-oliv)
+ - [oliverjam](https://github.com/oliverjam)
+ - [MartinVandersteen](https://github.com/MartinVandersteen)
+ - [amanvarma16](https://github.com/amanvarma16)
+ - [candy02058912](https://github.com/candy02058912)
+ - [jaanhio](https://github.com/jaanhio)
+ - [shivamgpt38](https://github.com/shivamgpt38)
+ - [nprail](https://github.com/nprail)
+ - [dysoco](https://github.com/dysoco)
+ - [shawnhwei](https://github.com/shawnhwei)
+ - [giraldez122](https://github.com/giraldez122)
+ - [LiteSoul](https://github.com/LiteSoul)
+ - [kaustubh-welankar](https://github.com/kaustubh-welankar)
+ - [lastab](https://github.com/lastab)
+ - [samyak-jain](https://github.com/samyak-jain)
+ - [adeen-s](https://github.com/adeen-s)
+ - [saifulwebid](https://github.com/saifulwebid)
+ - [Neil Kakkar](https://github.com/neilkakkar)
+ - [Pinjasaur](https://github.com/Pinjasaur)
+ - [billywongstuy](https://github.com/billywongstuy)
  - [burned42](https://github.com/burned42)
  - [alexandraalday](https://github.com/alexandraalday)
  - [GildaGriffon](https://github.com/GildaGriffon)
@@ -433,8 +491,30 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [Jerodev](https://github.com/jerodev)
  - [ksjc1995](https://github.com/ksjc1995)
 <<<<<<< HEAD
+<<<<<<< HEAD
  - [Ben](https://github.com/stmapman7)
 =======
+=======
+ - [Kiailandi](https://github.com/kiailandi)
+ - [JesseRhoads](https://github.com/JesseRhoads)
+ - [bsungur](https://github.com/bsungur)
+ - [leticiafatimaa](https://github.com/leticiafatimaa) 
+ - [ggurbet](https://github.com/ggurbet)
+ - [Dane David](https://github.com/danedavid)
+ - [elijahio](https://github.com/elijahio)
+ - [alfredrichards](https://github.com/alfredrichards)
+ - [tab8748](https://github.com/tab8748)
+ - [mtrivera](https://github.com/mtrivera)
+ - [msmtotti](https://github.com/msmtotti)
+ - [DatouHsu](https://github.com/DatouHsu)
+ - [mrgrape](https://github.com/mrgrape)
+ - [ZaninAndrea](https://github.com/ZaninAndrea)
+ - [LiamNorman](https://github.com/LiamNorman)
+ - [GuyLivni](https://github.com/GuyLivni)
+ - [AjesusFlores](https://github.com/ajesusflores)
+ - [dan1eltudares](https://github.com/dan1eltudares)
+ - [LyNac](https://github.com/LyNac)
+>>>>>>> upstream/master
  - [syam3526](https://github.com/syam3526)
  - [VishnuLeandro](https://github.com/VishnuLeandro)
  - [rejuls](https://github.com/rejuls)
@@ -479,4 +559,8 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [SrGrace](https://github.com/SrGrace)
  - [Fábio Salata](https://github.com/fsalata)
  - [IgorRozani](https://github.com/igorrozani)
+<<<<<<< HEAD
 >>>>>>> 2dcb82de950807c8ec74b027dfb35cbd86c49d9d
+=======
+ - [adich23](https://github.com/adich23)
+>>>>>>> upstream/master
